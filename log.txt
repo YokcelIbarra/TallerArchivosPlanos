@@ -1,0 +1,89 @@
+
+2026-06-06 00:48:54 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 00:50:15 | Usuario: admin | Acción: Intento fallido de inicio de sesión
+2026-06-06 00:50:15 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 00:51:03 | Usuario: mbedoya | Acción: Intento fallido de inicio de sesión
+2026-06-06 00:51:03 | Usuario: mbedoya | Acción: Intento fallido de inicio de sesión
+2026-06-06 00:51:03 | Usuario: mbedoya | Acción: Intento fallido de inicio de sesión
+2026-06-06 00:51:03 | Usuario: mbedoya | Acción: Usuario bloqueado por 3 intentos fallidos
+2026-06-06 00:51:36 | Usuario: mbedoya | Acción: Intento fallido de inicio de sesión - usuario bloqueado o inactivo
+2026-06-06 00:51:36 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 00:55:16 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 00:55:16 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 00:55:16 | Usuario: admin | Acción: Intentó ingresar a la opción pendiente 2
+2026-06-06 00:55:16 | Usuario: admin | Acción: Ingresó una opción inválida: x
+2026-06-06 00:55:16 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 00:58:38 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 00:58:38 | Usuario: admin | Acción: Agregó persona ID 4
+2026-06-06 00:58:38 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 00:58:38 | Usuario: admin | Acción: Guardó cambios en People.txt
+2026-06-06 00:58:38 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 01:00:52 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:00:52 | Usuario: admin | Acción: Editó persona ID 4
+2026-06-06 01:00:52 | Usuario: admin | Acción: Intentó editar persona inexistente ID 999
+2026-06-06 01:00:52 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:00:52 | Usuario: admin | Acción: Guardó cambios en People.txt
+2026-06-06 01:00:52 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 01:04:13 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:04:13 | Usuario: admin | Acción: Eliminó persona ID 4
+2026-06-06 01:04:13 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:04:13 | Usuario: admin | Acción: Guardó cambios en People.txt
+2026-06-06 01:04:13 | Usuario: admin | Acción: Intentó eliminar persona inexistente ID 999
+2026-06-06 01:04:13 | Usuario: admin | Acción: Canceló eliminación de persona ID 3
+2026-06-06 01:04:13 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 01:10:33 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:10:33 | Usuario: admin | Acción: Consultó informe por ciudad
+2026-06-06 01:10:33 | Usuario: admin | Acción: Agregó persona ID 4
+2026-06-06 01:10:33 | Usuario: admin | Acción: Agregó persona ID 5
+2026-06-06 01:10:33 | Usuario: admin | Acción: Eliminó persona ID 2
+2026-06-06 01:10:33 | Usuario: admin | Acción: Consultó informe por ciudad
+2026-06-06 01:10:33 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 01:14:34 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:14:34 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:14:34 | Usuario: admin | Acción: Agregó persona ID 4
+2026-06-06 01:14:34 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 01:15:26 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:15:26 | Usuario: admin | Acción: Agregó persona ID 4
+2026-06-06 01:15:26 | Usuario: admin | Acción: Guardó cambios en People.txt
+2026-06-06 01:15:27 | Usuario: admin | Acción: Consultó informe por ciudad
+2026-06-06 01:15:27 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 01:16:00 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:16:00 | Usuario: SISTEMA | Acción: Línea omitida en People.txt (6): cantidad de campos inválida
+2026-06-06 01:16:00 | Usuario: SISTEMA | Acción: Línea omitida en People.txt (7): ID inválido
+2026-06-06 01:16:00 | Usuario: SISTEMA | Acción: Línea omitida en People.txt (8): balance inválido
+2026-06-06 01:16:00 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:16:00 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 01:18:02 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:18:02 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:18:02 | Usuario: admin | Acción: Agregó persona ID 5
+2026-06-06 01:18:02 | Usuario: admin | Acción: Editó persona ID 5
+2026-06-06 01:18:02 | Usuario: admin | Acción: Consultó informe por ciudad
+2026-06-06 01:18:02 | Usuario: admin | Acción: Eliminó persona ID 5
+2026-06-06 01:18:02 | Usuario: admin | Acción: Guardó cambios en People.txt
+2026-06-06 01:18:02 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 01:20:28 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:20:36 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:21:20 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:21:21 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:21:26 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:24:44 | Usuario: admin | Acción: Agregó persona ID 2312323
+2026-06-06 01:24:47 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:24:48 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:24:49 | Usuario: admin | Acción: Ingresó una opción inválida: 
+2026-06-06 01:24:53 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:29:49 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:29:49 | Usuario: admin | Acción: Agregó persona ID 5
+2026-06-06 01:29:49 | Usuario: admin | Acción: Agregó persona ID 6
+2026-06-06 01:29:49 | Usuario: admin | Acción: Agregó persona ID 7
+2026-06-06 01:29:49 | Usuario: admin | Acción: Editó persona ID 5
+2026-06-06 01:29:49 | Usuario: admin | Acción: Eliminó persona ID 5
+2026-06-06 01:29:49 | Usuario: admin | Acción: Eliminó persona ID 6
+2026-06-06 01:29:49 | Usuario: admin | Acción: Eliminó persona ID 7
+2026-06-06 01:29:49 | Usuario: admin | Acción: Guardó cambios en People.txt
+2026-06-06 01:29:49 | Usuario: admin | Acción: Salió del sistema
+2026-06-06 01:30:37 | Usuario: admin | Acción: Inicio de sesión exitoso
+2026-06-06 01:30:38 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:32:15 | Usuario: admin | Acción: Agregó persona ID 42999511
+2026-06-06 01:32:17 | Usuario: admin | Acción: Consultó el listado de personas
+2026-06-06 01:32:57 | Usuario: admin | Acción: Editó persona ID 3
+2026-06-06 01:33:00 | Usuario: admin | Acción: Consultó informe por ciudad

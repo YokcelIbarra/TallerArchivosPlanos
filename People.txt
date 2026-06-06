@@ -1,0 +1,4 @@
+1,Maria,Bedoya,3223114015,Medellin,15000
+2,Juan,Zuluaga,3223114620,Medellin,8200
+3,Brad,Pit,3224504545,Miami,14000000
+4,Laura,Restrepo,3009998888,Cali,1234.50
